@@ -6,8 +6,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/deepak-kumar700/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="mailto:deepakkumar700.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://deepakkumar.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:deepak.contact45@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 ---
@@ -70,8 +70,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepakkumar700&show_icons=true&theme=radical" alt="Deepak's GitHub stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakkumar700&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=coder-deepak&show_icons=true&theme=radical" alt="Deepak's GitHub stats" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coder-deepak&theme=radical" height="150"/>
 </p>
 
 ---
@@ -87,8 +87,8 @@
 ### 📬 Let's Connect!
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/deepak-kumar700/)
-- 🌐 [Portfolio](https://deepakkumar.vercel.app)
-- 📫 Email: `deepakkumar700.dev@gmail.com`
+- 🌐 [Portfolio]()
+- 📫 Email: `deepak.contact45@gmail.com`
 
 ---
 
